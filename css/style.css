@@ -1,0 +1,37 @@
+body { 
+    font-family: Arial, sans-serif; 
+    text-align:center; 
+    background:#fff; 
+    padding:18px; 
+}
+
+
+h2 { 
+    margin-bottom:10px;
+}
+.box { 
+    background:#f7f7f7; 
+    display:inline-block; 
+    padding:10px; 
+    border-radius:6px; 
+}
+
+
+input, button { 
+    margin:6px; 
+    padding:6px; 
+    font-size:14px; 
+}
+
+
+#resultado { 
+    margin-top:12px; 
+    font-weight:600; 
+}
+
+
+#resultado img { 
+    display:block; 
+    margin:8px auto 0; 
+    width:90px; 
+}
